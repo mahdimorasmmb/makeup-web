@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-  font-family: "Krona One", sans-serif;
+  @apply font-base text-dark bg-light-grey;
 }
